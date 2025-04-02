@@ -87,7 +87,7 @@ body {
 }
 .card .text .data .box p:first-child {
   font-weight: 700;
-  font-size: 22px;
+  font-size: 24px;
   margin-bottom: 8px;
   letter-spacing: 1px;
 }
@@ -95,7 +95,7 @@ body {
   text-transform: uppercase;
   font-family: "Lexend Deca", sans-serif;
   font-size: 12px;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 1px;
   color: var(--slightly-transparent-white);
 }
