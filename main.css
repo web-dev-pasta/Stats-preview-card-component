@@ -36,8 +36,6 @@ body {
   grid-template-columns: 1fr 535px;
   overflow: hidden;
   margin: 100px 15px;
-  position: relative;
-  top: 20px;
 }
 .card .image {
   background-image: url(images/image-header-desktop.jpg);
